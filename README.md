@@ -8,6 +8,8 @@
                                                      
 ```
 
+![MyPass Dashboard](https://i.imgur.com/JjAoPnP.png)
+
 # 🔐 MyPass - Secure Password Manager
 
 MyPass is a secure and intuitive password manager built with a modern full-stack TypeScript ecosystem. It allows you to securely store, manage, and generate strong passwords, with features like robust authentication, data visualization, and client-side encryption.
@@ -54,7 +56,7 @@ Follow these steps to set up and run the project locally:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/MuhammadIqbalK/mypass.git # Replace with your actual repo URL
+git clone https://github.com/your-username/mypass.git # Replace with your actual repo URL
 cd mypass
 ```
 
@@ -137,14 +139,3 @@ mypass/
 *   `npm run db:generate`: Generate Drizzle migrations based on schema changes.
 *   `npm run db:migrate`: Run pending Drizzle migrations.
 *   `cd apps/server && npm run db:local`: Start the local SQLite database.
-
-## 🎯 Summary
-
-MyPass is built for security-first password management 🔐 with a modern developer experience ⚡.
-Easily extendable, type-safe, and production-ready 🚀.
-
-
-## 🌟 Support & Follow
-
-If you like this project, don’t forget to ⭐ the repo and follow me on GitHub!
-👉 [**Follow me here**](https://github.com/MuhammadIqbalK)💙
